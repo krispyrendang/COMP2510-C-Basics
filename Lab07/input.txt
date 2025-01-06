@@ -1,0 +1,32 @@
+Mary Jackson 4.0 I 60
+Cack He 2.45 D
+Mike Johnson 3.125 D
+Jane Zhang 3.8 I 120
+Thomas Black 3.9 I 50
+Jack Hunter 4.0 I 100
+Big Gums 3.9 D
+Peter Smith 4.0 D
+Jackson Green 2.7 D
+Strawberry Apple 2.93 D
+Tas Kim 3.34 D
+Simrat Kim 3.34 D
+Adidas Lee 2.51 D
+Xavier Hong 2.76 D
+Bret Apple 3.32 I 93
+Carlos Blacksmith 3.15 I 116
+Carlos Lim 2.55 I 72
+Strawberry Blacksmith 2.28 D
+April Hong 3.33 I 76
+Xavier Kim 3.11 D
+Strawberry Arshad 3.02 I 82
+Tas Grewal 3.22 I 91
+April Lim 3.75 I 71
+Strawberry Arshad 3.81 D
+Adidas Hong 3.27 D
+Xavier Lim 2.44 I 51
+Strawberry Kim 2.95 I 64
+Strawberry Grewal 3.31 D
+Xavier Lim 2.52 D
+Simrat Hong 2.92 I 63
+Tas Apple 2.56 I 82
+Simrat Blacksmith 3.42 I 102

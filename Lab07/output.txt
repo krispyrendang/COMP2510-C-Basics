@@ -1,0 +1,43 @@
+Orange Grewal 3.91 D
+Strawberry Blacksmith 3.91 D
+Simrat Kim 3.91 I 105
+Strawberry Kim 3.91 D
+Chicken Hong 3.92 D
+Chicken Kim 3.92 D
+Orange Apple 3.92 I 112
+Simrat Lim 3.92 D
+Xavier Lim 3.92 D
+April DInner 3.93 I 99
+Orange Blacksmith 3.93 D
+Tas Lim 3.93 I 86
+April Apple 3.94 I 77
+April Blacksmith 3.94 D
+Carlos Lee 3.94 I 109
+Carlos Kim 3.94 I 118
+Kimberly Hong 3.94 D
+Orange Kim 3.94 I 82
+Simrat Grewal 3.94 D
+Strawberry Apple 3.94 D
+Strawberry Arshad 3.94 D
+Strawberry Arshad 3.94 D
+Tas Blacksmith 3.94 D
+Simrat Arshad 3.95 D
+Strawberry Lee 3.95 D
+Tas Blacksmith 3.95 I 93
+Adidas Lee 3.96 D
+Carlos Grewal 3.96 D
+Strawberry DInner 3.96 I 79
+Bret Grewal 3.96 I 94
+Kimberly Grewal 3.96 I 108
+Adidas DInner 3.97 I 88
+April Apple 3.98 I 78
+Chicken Apple 3.98 I 82
+Orange Grewal 3.98 D
+Simrat Hong 3.98 D
+Simrat Hong 3.98 I 117
+Strawberry DInner 3.98 D
+Xavier Kim 3.98 D
+Strawberry DInner 3.99 I 76
+Orange Kim 4.00 D
+Simrat DInner 4.00 I 100
+Simrat Hong 4.00 I 103

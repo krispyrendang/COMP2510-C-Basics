@@ -1,0 +1,9 @@
+Mary Jackson 4.0 I 60
+Cack He 2.45 D
+Mike Johnson 3.125 D
+Jane Zhang 3.8 I 120
+Thomas Black 3.9 I 50
+Jack Hunter 4.0 I 100
+Big Gums 3.9 D
+Peter Smith 4.0 D
+Jackson Green 2.7 D

@@ -1,0 +1,3 @@
+cat is running
+dog is walking
+zebra is crawling
